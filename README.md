@@ -9,7 +9,7 @@ We have the following components:
 3. Video Search
 4. Video Player
 
-You must replace **GOOGLE_API_KEY** with your own. 
+You must replace **GOOGLE_API_KEY** with your own in (`Youtube.js file`). 
 
 Further instructions can be found [here](https://developers.google.com/maps/documentation/javascript/get-api-key) on the subject.
 
